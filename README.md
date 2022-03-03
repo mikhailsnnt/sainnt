@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 🧑‍🏫 Teaching Python, algorithms and data structures. Preparing students for programming contests.
 
 📫 How to reach me: 
-* Telegram: @mikhailsnnt
+* Telegram: https://t.me/mikhailsnnt
 * Email: nitinin.miha@icloud.com
 
