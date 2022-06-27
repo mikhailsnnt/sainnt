@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m mastering backend with __Kotlin__ & __Java__,
-going full-stack with __React__.
-
-
-- Learning Hindi, so मुझे चैट करने में खुशी होगी 
+going full-stack via __React__.
 
 
 🧑‍🏫 Teaching Python, algorithms and data structures. Preparing students for programming contests.
