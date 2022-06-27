@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning __Jave EE__
+🌱 I’m mastering backend with __Kotlin__ & __Java__. 
+Learning React.
 
 🧑‍🏫 Teaching Python, algorithms and data structures. Preparing students for programming contests.
 
