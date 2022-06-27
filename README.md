@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m mastering backend with __Kotlin__ & __Java__. 
-Learning React.
+🌱 I’m mastering backend with __Kotlin__ & __Java__,
+going full-stack with __React__.
+
+
+- Learning Hindi, so मुझे चैट करने में खुशी होगी 
+
 
 🧑‍🏫 Teaching Python, algorithms and data structures. Preparing students for programming contests.
 
 📫 How to reach me: 
 * Telegram: [@mikhailsnnt](https://t.me/mikhailsnnt)
 * Email: nitinin.miha@icloud.com
-
