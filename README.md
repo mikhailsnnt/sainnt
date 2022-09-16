@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m mastering backend with __Kotlin__ & __Java__,
-going full-stack via __React__.
+🌱 I’m mastering backend with __Kotlin__ & __Java__
 
 
 🧑‍🏫 Teaching Python, algorithms and data structures. Preparing students for programming contests.
